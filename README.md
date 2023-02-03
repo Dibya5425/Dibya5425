@@ -1,16 +1,43 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>  
 
-<!--
-**Dibya5425/Dibya5425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=Dibya5425&color=blue)
+<h3>A budding programmer exploring new fields of development.</h3>  
 
-Here are some ideas to get you started:
+- 👨‍🏭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
+- 🏫 I’m currently learning **Web Devlopment, Data Structure and Algorithm, and MySQL** 
+- 🙌 I’m looking to collaborate on **Web Development**
+- 🤔 I’m looking for help with **web projects and competitive programing**
+- 🥅 2021 Goals: **Getting an internship**   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://twitter.com/DibyaJy76367686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dibya-jyoti-barik-b71b351b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dibya_xdx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>   
+ 
+
+  
+⌨️ &nbsp;**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,materialui,bootstrap,js,jquery,react,java,mysql,&theme=light)](https://skillicons.dev)  
+  
+💻 &nbsp;**Tools**  
+  
+ [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,powershell,linux)](https://skillicons.dev)
+<br>
+  
+  
+ 📈 &nbsp;**Github Stats**
+
+<a href="https://github.com/Dibya5425">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dibya5425&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
+</a>
+<br><br>
+  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibya5425&layout=compact)](https://github.com/Dibya5425/github-readme-stats)
+  
