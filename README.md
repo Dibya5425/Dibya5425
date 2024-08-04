@@ -8,7 +8,7 @@
 - 🏫 I’m currently learning **Web Devlopment, Data Structure and Algorithm, and MySQL** 
 - 🙌 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **web projects and competitive programing**
-- 🥅 2023 Goals: **Getting an internship**   
+- 🥅 2025 Goals: **Getting an Opertunity as APM**   
 
 
 🔗 &nbsp;**Connect with me**
