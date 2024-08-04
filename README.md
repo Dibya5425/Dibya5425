@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Dibya5425&color=blue)
 <h3>A budding programmer exploring new fields of development.</h3>  
 
-- 👨‍🏭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
+- 👨‍🏭 I have graduated, **B.Tech CSE at Lovely Professional University** 
 - 🏫 I’m currently learning **Web Devlopment, Data Structure and Algorithm, and MySQL** 
 - 🙌 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **web projects and competitive programing**
