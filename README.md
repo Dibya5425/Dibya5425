@@ -5,10 +5,9 @@
 <h3>A budding programmer exploring new fields of development.</h3>  
 
 - 👨‍🏭 I have graduated, **B.Tech CSE at Lovely Professional University** 
-- 🏫 I’m currently learning **Web Devlopment, Data Structure and Algorithm, and MySQL** 
-- 🙌 I’m looking to collaborate on **Web Development**
+- 🙌 I’m looking to collaborate on **Web Development, and Java Fullstack **
 - 🤔 I’m looking for help with **web projects and competitive programing**
-- 🥅 2025 Goals: **Getting an Opertunity as APM**   
+- 🥅 2025 Goals: **Getting an Opertunity as JAVA Developer**   
 
 
 🔗 &nbsp;**Connect with me**
