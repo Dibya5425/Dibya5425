@@ -48,8 +48,9 @@
 
 ### 📊 GitHub Stats
 <a href="https://github.com/Dibya5425">
-<img src="https://github-readme-stats.vercel.app/api?username=Dibya5425&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
+<img src="(https://github-readme-stats.vercel.app/api?username=Dibya5425&show_icons=true&count_private=true&theme=midnight-purple" />
 </a>
+
 
 <a href="https://github.com/Dibya5425">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibya5425&layout=compact&theme=midnight-purple&hide_border=true" />
